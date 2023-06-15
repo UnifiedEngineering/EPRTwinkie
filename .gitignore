@@ -1,0 +1,11 @@
+#
+*__Previews
+*History
+*Project Logs for *
+*Project Outputs for *
+*Models/debug.log
+debug.log
+*.ERR
+/Release-*
+*.htm
+*.DS_Store
