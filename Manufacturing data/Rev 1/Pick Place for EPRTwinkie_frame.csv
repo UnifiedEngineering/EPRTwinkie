@@ -1,0 +1,64 @@
+Altium Designer Pick and Place Locations
+Z:\stuff\EPRTwinkie\EPRTwinkie_frame\Project Outputs for EPRTwinkie_frame\Pick Place for EPRTwinkie_frame.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       15-06-23
+Time:       20:26
+Revision:   0f8f72001bd33bc3592c448b5a19c48b932d2350
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R28","1005","TopLayer","RESC1005","14.6000","18.3000","0","Resistor"
+"BOOT","434331013822","BottomLayer","434331013822","10.0749","22.6247","90","WS-TASU SMT Tact Switch 3.5x2.9mm side push, SPST-NO, 12VDC, 50mA, 220g"
+"R27","1005","TopLayer","RESC1005","11.2500","19.5750","270","Resistor"
+"R26","1005","TopLayer","RESC1005","19.3500","31.9500","0","Resistor"
+"R25","3216","TopLayer","RESC3216","15.8500","31.9250","0","Resistor"
+"R24","3216","TopLayer","RESC3216","22.7500","31.9500","0","Resistor"
+"R23","1005","TopLayer","RESC1005","25.5000","11.6000","270","Resistor"
+"R22","1005","TopLayer","RESC1005","24.6000","11.6000","270","Resistor"
+"J2","USB4070-30-C_REVC5","TopLayer","GCT_USB4070-30-C_STRADDLE","29.5750","16.0000","270","USB-C (USB TYPE-C) USB 3.2 Gen 2 (USB 3.1 Gen 2, Superspeed + (USB 3.1)) Receptacle Connector 24 Position Surface Mount, Through Hole"
+"J1","USB4070-30-C_REVC5","TopLayer","GCT_USB4070-30-C_STRADDLE","29.5750","31.0000","270","USB-C (USB TYPE-C) USB 3.2 Gen 2 (USB 3.1 Gen 2, Superspeed + (USB 3.1)) Receptacle Connector 24 Position Surface Mount, Through Hole"
+"P1","USB4151-GF-C_REVA","TopLayer","GCT_USB4151-GF-C_STRADDLE","10.8250","31.0000","90","USB Type C Plug, Vertical, SMT"
+"U5","INA237AIDGSR","TopLayer","FP-DGS0010A-MFG","16.6250","27.7500","90","85-V, 16-BIT, I2C OUTPUT CURRENT"
+"U4","INA237AIDGSR","TopLayer","FP-DGS0010A-MFG","23.5250","27.6750","90","85-V, 16-BIT, I2C OUTPUT CURRENT"
+"U3","AD8606ACBZ-REEL7","TopLayer","FP-CB-8-1-MFG","12.9000","13.3000","270","IC OPAMP GP 2 CIRCUIT 8WLCSP"
+"U2","STM32F072CBU6","TopLayer","STM-UFQFPN48_L","19.7000","17.8000","0","ARM Cortex-M0 32-bit MCU, 128 KB Flash, 16 KB Internal RAM, 37 I/Os, 48-Pin UFQFPN, -40 to 85 degC, Tray"
+"U1","NCP167BFCT330T2G","TopLayer","BGA4C35P2X2_64X64X33","32.5250","23.6750","0","ON SEMICONDUCTOR - NCP167BFCT330T2G - LDO, FIXED, 3.3V, 0.7A, -40 TO 125DEG C"
+"R21","1005","TopLayer","RESC1005","27.8000","22.6250","180","Resistor"
+"R20","1005","TopLayer","RESC1005","27.8000","23.5250","180","Resistor"
+"R19","1005","TopLayer","RESC1005","27.8000","24.4250","180","Resistor"
+"R18","1005","TopLayer","RESC1005","19.4000","26.0000","90","Resistor"
+"R17","1005","TopLayer","RESC1005","20.3000","26.0000","270","Resistor"
+"R16","1005","TopLayer","RESC1005","15.1000","11.9000","270","Resistor"
+"R15","1005","TopLayer","RESC1005","19.5000","12.8000","90","Resistor"
+"R14","1005","TopLayer","RESC1005","13.0000","20.0000","0","Resistor"
+"R13","1005","TopLayer","RESC1005","13.0000","19.1000","0","Resistor"
+"R12","1005","TopLayer","RESC1005","18.4000","23.2000","90","Resistor"
+"R11","1005","TopLayer","RESC1005","20.6000","11.2000","180","Resistor"
+"R10","1005","TopLayer","RESC1005","12.2750","21.9750","0","Resistor"
+"R9","1005","TopLayer","RESC1005","18.1000","11.9000","90","Resistor"
+"R8","1005","TopLayer","RESC1005","10.3000","14.0000","180","Resistor"
+"R7","1005","TopLayer","RESC1005","25.2000","13.8000","90","Resistor"
+"R6","1005","TopLayer","RESC1005","23.5000","22.5000","180","Resistor"
+"R5","1005","TopLayer","RESC1005","23.5000","23.4000","180","Resistor"
+"R4","1005","TopLayer","RESC1005","20.5000","22.8000","90","Resistor"
+"R3","1005","TopLayer","RESC1005","24.3000","13.8000","270","Resistor"
+"R2","1005","TopLayer","RESC1005","12.2750","24.7750","0","Resistor"
+"R1","1005","TopLayer","RESC1005","11.4000","11.2000","180","Resistor"
+"Q3","PMDXB600UNE","TopLayer","SON35P100X40-6N","16.6000","11.9000","0","Dual N Channel Field Effect Transistor"
+"Q2","PMDXB600UNE","TopLayer","SON35P100X40-6N","10.3000","12.6000","270","Dual N Channel Field Effect Transistor"
+"Q1","PMDXB600UNE","TopLayer","SON35P100X40-6N","11.7750","23.3750","270","Dual N Channel Field Effect Transistor"
+"FB2","1608","TopLayer","RESC1608","12.4000","16.8000","180","Resistor"
+"FB1","1608","TopLayer","RESC1608","30.2000","22.7000","180","Resistor"
+"D1","UHD111A","TopLayer","Cree_UHD111A","35.8000","23.5000","90","LED RGB SMD"
+"C8","1005","TopLayer","CAPC1005","24.4000","20.6000","90","Capacitor"
+"C7","1608","TopLayer","CAPC1608","25.5000","20.9000","90","Capacitor"
+"C6","1005","TopLayer","CAPC1005","14.1000","17.0000","270","Capacitor"
+"C5","1005","TopLayer","CAPC1005","15.1000","17.0000","270","Capacitor"
+"C4","1608","TopLayer","CAPC1608","16.4000","23.4000","180","Capacitor"
+"C3","1005","TopLayer","CAPC1005","16.7000","22.3000","180","Capacitor"
+"C2","1005","TopLayer","CAPC1005","22.6000","13.2000","0","Capacitor"
+"C1","1005","TopLayer","CAPC1005","32.5000","22.5000","180","Capacitor"
