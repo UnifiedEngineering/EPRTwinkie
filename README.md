@@ -21,5 +21,5 @@ Special variant which enables the use of a computer with limited supply capabili
 Fully assembled EPR Twinkie boards
 ![Fully assembled boards](img/AssembledBoards.jpeg)
 
-Example EPR capture (don't have anything >28V yet)
-![Fully assembled boards](img/AssembledBoards.jpeg)
+Example EPR capture (don't have any devices capable of >28V yet)
+![EPR capture screenshot](img/EPRCapture.png)
