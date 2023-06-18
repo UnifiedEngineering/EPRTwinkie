@@ -12,6 +12,8 @@ Shunt calibration needs to be changed to 0x6000 for INA237 with 30mOhm resistors
 
 Alert and mask settings are also different but I haven't touched those yet.
 
+The Total Phase PD Analyzer firmware can be patched to support the INA237 (tested with pda-firmware-v1.11.img, sha256 188ff949bfdff9008c31673b82b8075096c83ed49956b9d1404533d28acdc3b5) using [this patch file](pda-firmware-v1.11.img.hex.patch). Note that the diff was done on a hex representation created using ´xxd -c1´. If someone has a more straight-forward way of creating readable binary diffs I'd love to hear about it.
+
 Boards
 ![Framed boards](img/FramedBoards.jpeg)
 
